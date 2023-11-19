@@ -4,7 +4,7 @@ Immerse yourself in the soothing challenge of the Water Sort Puzzle game! 💧�
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/water-sort-puzzle/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/water-sort-puzzle/) 🕹️
 
 ## About the Game
 
